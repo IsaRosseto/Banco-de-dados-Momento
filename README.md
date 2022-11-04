@@ -31,3 +31,40 @@
 
 ![5](https://user-images.githubusercontent.com/92994715/200077452-5d144bf9-db35-4a05-a13d-697fde19c00d.png)
 ##
+
+<h3> 6 - Quanto o departamento de Transportes gasta em salários? </h3>
+
+> Ele gasta: R$41.200,00
+
+![6](https://user-images.githubusercontent.com/92994715/200077813-b35af5be-c601-404d-9734-b5eb8cac6673.png)
+##
+
+<h3> 7 -   Um novo departamento foi criado. O departamento de inovações. Ele será locado no Brasil. Por favor, adicione-o no banco de dados. </h3>
+
+![7](https://user-images.githubusercontent.com/92994715/200077970-a30e318e-5b89-4673-8408-f0e84d2062c4.png)
+##
+
+<h3> 8 -  Novos Funcionários! </h3>
+Três novos funcionários foram contratados para o departamento de inovações. Por favor, adicione-os: William Ferreira, casado com Inara Ferreira, possui um filho chamado Gabriel que tem 4 anos e adora brincar com cachorros. Ele será programador.Já a Fernanda Lima, que é casada com o Rodrigo, não possui filhos. Ela vai ocupar a posição de desenvolvedora.  Por último, a Gerente do departamento será Fabiana Raulino. Casada, duas filhas (Maya e Laura). 
+
+<h4> Inserção de 3 novos cargos </h4>
+
+![8](https://user-images.githubusercontent.com/92994715/200078213-cb5e83a1-d7a4-4469-83eb-b694455cf37a.png)
+
+<h4> Inserção de 3 novos funcionários </h4>
+
+![9](https://user-images.githubusercontent.com/92994715/200078568-15488744-540e-45e2-9740-41997e54df8c.png)
+
+
+<h4> Inserção dos dependentes </h4>
+
+![10](https://user-images.githubusercontent.com/92994715/200078675-f4a116c2-499c-4b50-8d99-d8ae1cfa21d0.png)
+
+<h4>O salário de todos eles será a média salarial dos departamentos de administração e finanças. </h4>
+
+![11](https://user-images.githubusercontent.com/92994715/200078942-64b42dd0-f7c3-4192-931b-e5bdc107ddd6.png)
+
+##
+
+
+
