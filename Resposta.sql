@@ -98,7 +98,7 @@ Talvez resulte em uma maior confusão e demora ao inserir um novo dado, tendo qu
 
 
 /* 16 - Escolha um país para se mudar. Qual seria esse país? Por que escolheria esse país? E o departamento. O que seria? Como seriam seus funcionários? */
-Eu me mudaria para os Estados Unidos, precisamente para a California por ser uma área em constante desenvolvimento tecnologico por conta do Vale do Sicilio. O meu departamento seria Desenvolvimento de tudo, menos java. Os funcionarios seriam em sua grande maioria jovens em sua primeira experiencia no mercado e todos amariam C#.
+Eu me mudaria para os Estados Unidos, precisamente para a California por ser uma área em constante desenvolvimento tecnologico por conta do Vale do silício. O meu departamento seria Desenvolvimento de tudo, menos java. Os funcionarios seriam em sua grande maioria jovens em sua primeira experiencia no mercado e todos amariam C#.
 
 /* 17 - Atualize as informações na tabela para que seu departamento seja criado.*/
 INSERT INTO departamento(departamento_id,departamento_name,posicao_id) VALUES (13,'No Java',2100);
