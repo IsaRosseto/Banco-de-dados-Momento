@@ -1,9 +1,15 @@
 # Momento & Seus Funcionários - MySQL
 
-<h3>A Momento é uma empresa única que faz o melhor que pode para alcançar o melhor da humanidade. <h3>
+<h3>A Momento é uma empresa única que faz o melhor que pode para alcançar o melhor da humanidade. </h3>
+  
+ > O arquivo DATABASE é o arquivo inicial, sem nenhuma alteração ou CRUD.
+  
+ > Utilizei o MySQL Workbench para a execução dessa tarefa!
+
+ > Abaixo segue a resolução dos exercicios em alto contraste para maior compreensão.
   
 ##
-  <h4> 1 - Inclua suas próprias informações no departamento de tecnologia da empresa. </h4>
+  <h3> 1 - Inclua suas próprias informações no departamento de tecnologia da empresa. </h4>
 
 ![1](https://user-images.githubusercontent.com/92994715/200075623-1436772c-8cf7-4d8c-98f3-d2661869c446.png)
 ##
