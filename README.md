@@ -119,12 +119,8 @@ Três novos funcionários foram contratados para o departamento de inovações. 
 <h3> 16 -  Escolha um país para se mudar. Qual seria esse país? Por que escolheria esse país? E o departamento. O que seria? Como seriam seus funcionários? </h3>
 
 >Eu me mudaria para os Estados Unidos, precisamente para a California por ser uma área em constante desenvolvimento tecnologico por conta do Vale dovale do silício.
-<br>
-
-> O meu departamento seria Desenvolvimento de tudo, menos java. 
-<br>
-
-> Os funcionarios seriam em sua grande maioria jovens em sua primeira experiencia no mercado e todos amariam C#.
+> <br> O meu departamento seria Desenvolvimento de tudo, menos java. 
+> <br> Os funcionarios seriam em sua grande maioria jovens em sua primeira experiencia no mercado e todos amariam C#.
 
 ##
 
